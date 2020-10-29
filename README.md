@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashiofficial&show_icons=true&locale=en&layout=compact" alt="shashiofficial" /></p>
 
-<br>
-
-<img align="left" alt="mishra3452's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashiofficial&show_icons=true" />
+<img align="left" alt="shashiofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashiofficial&show_icons=true" />
