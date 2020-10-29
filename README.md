@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available [here](shashiofficial.github.io/)
+- 👨‍💻 All of my projects are available [here](https://shashiofficial.github.io/)
 
 <hr>
 
