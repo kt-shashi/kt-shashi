@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [shashiofficial.github.io/](shashiofficial.github.io/)
-
-- 📫 How to reach me **coding.shashi@gmail.com**
+- 👨‍💻 All of my projects are available [here](shashiofficial.github.io/)
 
 <hr>
 
@@ -24,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiofficial&&theme=algolia&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
 
-![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashiofficial&count_private=true&theme=algolia&show_icons=true)
+![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashiofficial&count_private=true&theme=react&show_icons=true)
