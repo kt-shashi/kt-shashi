@@ -22,6 +22,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiofficial&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiofficial&&theme=algolia&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
 
 ![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashiofficial&count_private=true&theme=algolia&show_icons=true)
