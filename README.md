@@ -22,6 +22,6 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashiofficial&show_icons=true&locale=en&layout=compact" alt="shashiofficial" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiofficial&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
 
-<img align="left" alt="shashiofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashiofficial&show_icons=true" />
+![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashiofficial&count_private=true&theme=algolia&show_icons=true)
