@@ -20,6 +20,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&&theme=algolia&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&&theme=algolia&layout=compact)](https://github.com/shashi-kant10/github-readme-stats)
 
 ![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true)
