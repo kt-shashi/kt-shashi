@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available [here](https://shashiofficial.github.io/)
+- 👨‍💻 All of my projects are available [here](https://shashi-kant10.github.io/)
 
 <hr>
 
@@ -20,6 +20,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiofficial&&theme=algolia&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&&theme=algolia&layout=compact)](https://github.com/shashiofficial/github-readme-stats)
 
-![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashiofficial&count_private=true&theme=react&show_icons=true)
+![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true)
