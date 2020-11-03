@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available [here](https://shashi-kant10.github.io/)
 
+- 📫 How to reach me [Click here](mailto:coding.shashi@gmail.com)
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
