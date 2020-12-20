@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🔭 I’m currently working at **Perform Digital**
+
+- 🌱 I’m currently learning more about Jetpack Compose, UI testing, Android development
 
 - 👨‍💻 All of my projects are available [here](https://shashi-kant10.github.io/)
 
