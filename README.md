@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h2 align="center">A passionate Android developer from India</h2>
 
 - 🔭 Android intern @ **Perform Digital**
 
@@ -13,7 +13,7 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="50" src="https://freepngimg.com/download/java/5-2-java-png-clipart.png"></code>
@@ -27,7 +27,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">SKILL</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://img.shields.io/badge/Android-★★★★★★-yellow">
