@@ -3,7 +3,7 @@
 
 - 🔭 Android intern @ **Perform Digital**
 
--🎓 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>
+- 🎓 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>
 
 - 🌱 I’m currently learning more about Jetpack Compose, UI testing, Android development
 
