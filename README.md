@@ -3,6 +3,8 @@
 
 - 🔭 Android intern @ **Perform Digital**
 
+-🎓 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>
+
 - 🌱 I’m currently learning more about Jetpack Compose, UI testing, Android development
 
 - 👨‍💻 All of my projects are available [here](https://shashi-kant10.github.io/)
@@ -71,7 +73,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
-<h2 align="center">Project's</h2>
+<h2 align="center">Projects</h2>
 
 | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=CloudNotes&cache_seconds=86400&theme=react) | 
 | ------------- | ------------- |
