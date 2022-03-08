@@ -68,7 +68,7 @@
 
 <h2 align="center">Languages and Stats</h2>
 
-| <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=swift&hide_border=true" /></a> |
+| <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" alt="Shashi's github stats" /></a> | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
