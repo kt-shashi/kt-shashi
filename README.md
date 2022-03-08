@@ -25,6 +25,43 @@
 <code><img height="50" src="https://cdn.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU.jpg"></code>
 </p>
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2 align="center">SKILL</h2>
+
+<p align="center">
+  <a href="https://img.shields.io/badge/Android-★★★★★★-yellow">
+   <img alt="Android-★★★★★-yellow" src="https://img.shields.io/badge/Android-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/Java-★★★★★★-yellow">
+   <img alt="Java-★★★★★-yellow" src="https://img.shields.io/badge/Java-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/Kotlin-★★★★★★-yellow">
+   <img alt="Kotlin-★★★★★-yellow" src="https://img.shields.io/badge/Kotlin-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
+   <img alt="ProblemSolving-★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/DataStructure-★★★★★-yellow">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/DataStructure-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/CPP-★★★★★-yellow">
+   <img alt="CPP-★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/C-★★★★★-yellow">
+   <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/HTML-★★★★☆-brightgreen">
+   <img alt="HTML-★★★★☆-brightgreen" src="https://img.shields.io/badge/HTML-★★★★☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/CSS-★★★☆☆-brightgreen">
+   <img alt="CSS-★★★☆☆-brightgreen" src="https://img.shields.io/badge/CSS-★★★☆☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
+   <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
+   </a>
+</p>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
 <h2 align="center">Projects</h2>
@@ -35,7 +72,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-<h2 align="center">Languages and Stats</h2>
+<h2 align="center">Stats</h2>
 
 | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=react" /></a> |
 | ------------- | ------------- |
