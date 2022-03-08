@@ -9,13 +9,6 @@
 
 - 📫 How to reach me [Click here](mailto:coding.shashi@gmail.com)
 
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shashi10" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="shashi10" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/shashi-kant10" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="shashi-kant10" height="50" /></a>
-</p>
 
 <hr>
 
@@ -32,6 +25,43 @@
 </p>
 
 <hr>
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------->
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  
+ <a href="https://linkedin.com/in/shashi-kant10">
+   <img alt="Shashi" src="https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/" />
+ </a>
+  
+ <a href="https://dev.to/shashi10">
+   <img alt="Shashi" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />
+ </a>
+  
+ <a href="https://www.instagram.com/kt.shashi">
+   <img alt="Shashi" src="https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/" />
+ </a>
+
+ </a>
+ <a href="mailto:coding.shashi@gmail.com">
+   <img alt="Shashi" src="https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com" />
+ </a>
+ 
+ <a href="https://shashi-kant10.github.io/">
+   <img alt="Shashi" src="https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz" />
+ </a>
+ 
+ <a href="https://github.com/shashi-kant10">
+   <img alt="Shashi" src="https://img.shields.io/github/followers/soshubh?label=follow&style=social" />
+ </a>   
+ 
+</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
