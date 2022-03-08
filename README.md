@@ -9,8 +9,7 @@
 
 - 📫 How to reach me [Click here](mailto:coding.shashi@gmail.com)
 
-
-<hr>
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -23,9 +22,6 @@
 <code><img height="50" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
 <code><img height="50" src="https://cdn.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU.jpg"></code>
 </p>
-
-<hr>
-
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
