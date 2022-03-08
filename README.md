@@ -25,7 +25,23 @@
 <code><img height="50" src="https://cdn.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU.jpg"></code>
 </p>
 
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------->
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+<h2 align="center">Projects</h2>
+
+| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=CloudNotes&cache_seconds=86400&theme=react) | 
+| ------------- | ------------- |
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<h2 align="center">Languages and Stats</h2>
+
+| <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=react" /></a> |
+| ------------- | ------------- |
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
+
 
 <h2 align="center">Connect with me</h2>
 
@@ -60,22 +76,3 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2 align="center">Languages and Stats</h2>
-
-| <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=react" /></a> |
-| ------------- | ------------- |
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
-
-<h2 align="center">Projects</h2>
-
-| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=CloudNotes&cache_seconds=86400&theme=react) | 
-| ------------- | ------------- |
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
