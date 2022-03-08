@@ -51,11 +51,11 @@
  </a>
  
  <a href="https://shashi-kant10.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-shashi-kant10-olive?style=flat-square&logo=Website&logoColor=white&link=https://shashi-kant10.github.io" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://shashi-kant10.github.io" />
  </a>
  
  <a href="https://github.com/shashi-kant10">
-   <img alt="Shashi" src="https://img.shields.io/github/followers/shashi?label=follow&style=social" />
+   <img alt="Shashi" src="https://img.shields.io/github/followers/shashi-kant10?label=follow&style=social" />
  </a>   
  
 </p>
