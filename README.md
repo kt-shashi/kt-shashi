@@ -38,7 +38,7 @@
  </a>
   
  <a href="https://dev.to/shashi10">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-blue?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
  </a>
   
  <a href="https://www.instagram.com/kt.shashi">
