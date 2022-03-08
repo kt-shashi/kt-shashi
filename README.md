@@ -23,8 +23,8 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
 <code><img height="50" src="https://cdn.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU.jpg">
-<code color="white"><img height="45" src="icon/css_logo.png"></code>
-<code><img height="45" src="icon/html_logo.png"></code>
+<code color="white"><img height="45" src="logo/css_logo.png"></code>
+<code><img height="45" src="logo/html_logo.png"></code>
 </code>
 </p>
 
