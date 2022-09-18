@@ -88,7 +88,7 @@
 <p align="center">
   
  <a href="https://linkedin.com/in/kt-shashi">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shashi-kant10/" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kt-shashi/" />
  </a>
   
  <a href="https://dev.to/shashi10">
