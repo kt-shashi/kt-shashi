@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning more about Jetpack Compose, UI testing, Android development
 
-- 👨‍💻 All of my projects are available [here](https://shashi-kant10.github.io/)
+- 👨‍💻 All of my projects are available [here](https://kt-shashi.github.io/)
 
-- 📫 How to reach me [Click here](mailto:coding.shashi@gmail.com)
+- 📫 How to reach me [Click here](mailto:shkt03@gmail.com)
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -69,7 +69,7 @@
 
 <h2 align="center">Projects</h2>
 
-| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=shashi-kant10&repo=CloudNotes&cache_seconds=86400&theme=react) | 
+| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=react) | 
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -77,7 +77,7 @@
 
 <h2 align="center">Stats</h2>
 
-| <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-kant10&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/shashi-kant10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-kant10&layout=compact&theme=react" /></a> |
+| <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=react" /></a> |
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
@@ -87,7 +87,7 @@
 
 <p align="center">
   
- <a href="https://linkedin.com/in/shashi-kant10">
+ <a href="https://linkedin.com/in/kt-shashi">
    <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shashi-kant10/" />
  </a>
   
@@ -100,16 +100,16 @@
  </a>
 
  </a>
- <a href="mailto:coding.shashi@gmail.com">
-   <img alt="Shashi" src="https://img.shields.io/badge/-coding.shashi-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coding.shashi@gmail.com" />
+ <a href="mailto:shkt03@gmail.com">
+   <img alt="Shashi" src="https://img.shields.io/badge/-coding.shashi-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
  </a>
  
- <a href="https://shashi-kant10.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://shashi-kant10.github.io" />
+ <a href="https://kt-shashi.github.io/">
+   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
  </a>
  
- <a href="https://github.com/shashi-kant10">
-   <img alt="Shashi" src="https://img.shields.io/github/followers/shashi-kant10?label=follow&style=social" />
+ <a href="https://github.com/kt-shashi">
+   <img alt="Shashi" src="https://img.shields.io/github/followers/kt-shashi?label=follow&style=social" />
  </a>   
  
 </p>
