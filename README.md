@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h2 align="center">A passionate Android developer from India</h2>
 
-- 🔭 Android intern @ **Perform Digital**
+- 🔭 Former Android intern @ **Perform Digital**
 
 - 🎓 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>
 
