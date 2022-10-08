@@ -69,7 +69,7 @@
 
 <h2 align="center">Projects</h2>
 
-| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=react) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=react) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=react) | 
+| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -79,7 +79,7 @@
 
 <a href="https://streak-stats.demolab.com/?user=kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=dark" alt="Shashi's github stats" /></a>
 
-| <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=react&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=react" /></a> |
+| <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
