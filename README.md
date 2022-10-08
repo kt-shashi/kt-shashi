@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Shashi</h1>
 <h2 align="center">A passionate Android developer from India</h2>
 
 - 🔭 Former Android intern @ **Perform Digital**
