@@ -103,7 +103,7 @@
 
  </a>
  <a href="mailto:shkt03@gmail.com">
-   <img alt="Shashi" src="https://img.shields.io/badge/-coding.shashi-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-shkt03-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
  </a>
  
  <a href="https://kt-shashi.github.io/">
