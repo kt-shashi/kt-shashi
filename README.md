@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://kt-shashi.github.io/)
 
-- 📫 How to reach me [Click here](mailto:shkt03@gmail.com)
+- 📫 How to reach me [Click here](https://www.linkedin.com/in/kt-shashi/)
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
