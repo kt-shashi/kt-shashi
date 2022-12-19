@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Shashi</h1>
 <h2 align="center">A passionate Android developer from India</h2>
 
-- 🔭 Former Android intern @ **Perform Digital**
+- 🔭 Former Android Developer Intern @ **Perform Digital**
 
 - 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>**
 
@@ -90,24 +90,24 @@
 <p align="center">
   
  <a href="https://linkedin.com/in/kt-shashi">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kt-shashi/" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kt-shashi/" />
  </a>
   
  <a href="https://dev.to/shashi10">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
  </a>
   
  <a href="https://www.instagram.com/kt.shashi">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Shashi-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kt.shashi/" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kt.shashi/" />
  </a>
 
  </a>
  <a href="mailto:shkt03@gmail.com">
-   <img alt="Shashi" src="https://img.shields.io/badge/-shkt03-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Gmail-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
  </a>
  
  <a href="https://kt-shashi.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Website-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
  </a>
  
  <a href="https://github.com/kt-shashi">
