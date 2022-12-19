@@ -3,11 +3,11 @@
 
 - 🔭 Former Android intern @ **Perform Digital**
 
-- 🎓 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>
+- 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>**
 
-- 🌱 I’m currently learning more about Jetpack Compose, UI testing, Android development
+- 🌱 I’m currently learning more about Jetpack Compose, UI testing, **Android development**
 
-- 👨‍💻 All of my projects are available [here](https://kt-shashi.github.io/)
+- 👨‍💻 All of my **projects** are available [here](https://kt-shashi.github.io/)
 
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kt-shashi/)
 
