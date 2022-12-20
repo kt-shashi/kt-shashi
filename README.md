@@ -81,10 +81,12 @@
 
 <h2 align="center">Stats</h2>
 
-<a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a>
+<!-- <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a>  -->
 
-| <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&theme=highcontrast" /></a> |
 | ------------- | ------------- |
+| <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
+
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
