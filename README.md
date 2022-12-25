@@ -5,7 +5,9 @@
 </p>
 </h1>
 
-<h2 align="center">About</h2>
+
+<details open> 
+  <summary><h2>About</h2></summary>
 
 - 🔭 Former Android Developer Intern @ **Perform Digital**
 
@@ -17,9 +19,12 @@
 
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kt-shashi/)
 
+</details>
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
-<h2 align="center">Languages and Tools</h2>
+<details open> 
+  <summary><h2>Languages and Tools</h2></summary>
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
@@ -38,10 +43,13 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </p>
 
+</details>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Skills</h2>
-
+<details open> 
+  <summary><h2>Skills</h2></summary>
+  
 <p align="center">
   <a href="https://img.shields.io/badge/Android-★★★★★★-yellow">
    <img alt="Android-★★★★★-yellow" src="https://img.shields.io/badge/Android-★★★★★-yellow" />
@@ -75,17 +83,22 @@
    </a>
 </p>
 
+</details>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
-<h2 align="center">Projects</h2>
+<details open> 
+  <summary><h2>Projects</h2></summary>
 
 | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
+</details>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-
-<h2 align="center">Stats</h2>
+<details open> 
+  <summary><h2>Stats</h2></summary>
 
 <!-- <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a>  -->
 
@@ -93,11 +106,12 @@
 | ------------- | ------------- |
 | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
 
+</details>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
-
-<h2 align="center">Connect with me</h2>
+<details open> 
+  <summary><h2>Connect with me</h2></summary>
 
 <p align="center">
   
@@ -128,5 +142,9 @@
  
 </p>
 
+</details>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
 
