@@ -7,25 +7,35 @@
 
 
 <details open> 
-  <summary><h2>🤖 About</h2></summary>
+  <summary><h2>🤖 About me</h2></summary>
 
-- 🔭 Former Android Developer Intern @ **Perform Digital**
+<br>
+    
+- 🔭 Former Android Developer Intern @ **<a href="https://drive.google.com/file/d/1YojW8B7tmdhq0IlHWtYpXSEZ4EtvaFzO/view">Perform Digital</a>**
 
 - 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>**
 
-- 🌱 I’m currently learning more about Jetpack Compose, UI testing, **Android development**
+- ⚡ I’m currently learning more about Jetpack Compose, UI testing, **<a href="https://g.dev/shashi_kt">Android development</a>**
+
+<!-- -  Practicing Data Structures on **<a href="https://leetcode.com/shkt/">LeetCode</a>** | **<a href="https://auth.geeksforgeeks.org/user/shashikt/">GeeksForGeeks</a>**  -->
 
 - 👨‍💻 All of my **projects** are available [here](https://kt-shashi.github.io/)
 
+- ✍️ All of my **articles** are available [here](https://medium.com/@kt-shashi)
+
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kt-shashi/)
 
+<br>
+    
 </details>
 
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------->
+-----
 
 <details open> 
   <summary><h2>🛠️ Languages and Tools</h2></summary>
 
+<br>
+    
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></code>
@@ -42,14 +52,18 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </p>
+    
+<br>
 
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+-----
 
 <details open> 
   <summary><h2>💻 Skills</h2></summary>
   
+<br>
+    
 <p align="center">
   <a href="https://img.shields.io/badge/Android-★★★★★★-yellow">
    <img alt="Android-★★★★★-yellow" src="https://img.shields.io/badge/Android-★★★★★-yellow" />
@@ -83,44 +97,62 @@
    </a>
 </p>
 
+<br>
+    
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
+-----
 
 <details open> 
-  <summary><h2>📘 Projects</h2></summary>
+  <summary><h2>⚡ Top Projects</h2></summary>
+
+<br>
 
 | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
+<br>
+    
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+-----
 
 <details open> 
-  <summary><h2>📶 Stats</h2></summary>
+  <summary><h2>📶 Github Stats and Activity</h2></summary>
 
-<!-- <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a>  -->
+<br>
 
 | <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&theme=highcontrast" /></a> |
 | ------------- | ------------- |
 | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
 
+<br>
+    
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
+-----
 
 <details open> 
   <summary><h2>🙋‍♂️ Connect with me</h2></summary>
 
+<br>
+    
 <p align="center">
   
  <a href="https://linkedin.com/in/kt-shashi">
    <img alt="Shashi" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kt-shashi/" />
  </a>
   
+ <a href="https://auth.geeksforgeeks.org/user/shashikt">
+   <img alt="Shashi" src="https://img.shields.io/badge/-GeeksForGeeks-green?style=flat-square&logo=GeeksForGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/shashikt" />
+ </a>
+    
+ <a href="https://leetcode.com/shkt/">
+   <img alt="Shashi" src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/shkt/" />
+ </a>
+    
  <a href="https://dev.to/shashi10">
-   <img alt="Shashi" src="https://img.shields.io/badge/-📝DEV.TO-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/shashi10" />
  </a>
   
  <a href="https://www.instagram.com/kt.shashi">
@@ -128,7 +160,7 @@
  </a>
 
  <a href="https://medium.com/@kt-shashi">
-   <img alt="Shashi" src="https://img.shields.io/badge/-✍️Medium-black?style=flat-square&logo=Dev&logoColor=white&link=https://medium.com/@kt-shashi" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@kt-shashi" />
  </a>
     
  </a>
@@ -137,7 +169,7 @@
  </a>
  
  <a href="https://kt-shashi.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-🌐Website-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-🌐Website-olive?style=flat-square&logo=web&logoColor=white&link=https://kt-shashi.github.io" />
  </a>
  
  <a href="https://github.com/kt-shashi">
@@ -146,9 +178,8 @@
  
 </p>
 
+<br>
+
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-
+-----
