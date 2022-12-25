@@ -120,20 +120,24 @@
  </a>
   
  <a href="https://dev.to/shashi10">
-   <img alt="Shashi" src="https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-📝DEV.TO-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/shashi10" />
  </a>
   
  <a href="https://www.instagram.com/kt.shashi">
    <img alt="Shashi" src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kt.shashi/" />
  </a>
 
+ <a href="https://medium.com/@kt-shashi">
+   <img alt="Shashi" src="https://img.shields.io/badge/-✍️Medium-black?style=flat-square&logo=Dev&logoColor=white&link=https://medium.com/@kt-shashi" />
+ </a>
+    
  </a>
  <a href="mailto:shkt03@gmail.com">
    <img alt="Shashi" src="https://img.shields.io/badge/-Gmail-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
  </a>
  
  <a href="https://kt-shashi.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-Website-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
+   <img alt="Shashi" src="https://img.shields.io/badge/-🌐Website-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
  </a>
  
  <a href="https://github.com/kt-shashi">
