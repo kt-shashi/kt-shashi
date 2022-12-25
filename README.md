@@ -7,7 +7,7 @@
 
 
 <details open> 
-  <summary><h2>About</h2></summary>
+  <summary><h2>🤖 About</h2></summary>
 
 - 🔭 Former Android Developer Intern @ **Perform Digital**
 
@@ -24,7 +24,7 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
 <details open> 
-  <summary><h2>Languages and Tools</h2></summary>
+  <summary><h2>🛠️ Languages and Tools</h2></summary>
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
@@ -48,7 +48,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <details open> 
-  <summary><h2>Skills</h2></summary>
+  <summary><h2>💻 Skills</h2></summary>
   
 <p align="center">
   <a href="https://img.shields.io/badge/Android-★★★★★★-yellow">
@@ -88,7 +88,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
 <details open> 
-  <summary><h2>Projects</h2></summary>
+  <summary><h2>📘 Projects</h2></summary>
 
 | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
@@ -98,7 +98,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <details open> 
-  <summary><h2>Stats</h2></summary>
+  <summary><h2>📶 Stats</h2></summary>
 
 <!-- <a href="https://github.com/kt-shashi"><img align="center" src="https://streak-stats.demolab.com/?user=kt-shashi&theme=highcontrast" alt="Shashi's github stats" /></a>  -->
 
@@ -111,7 +111,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
 <details open> 
-  <summary><h2>Connect with me</h2></summary>
+  <summary><h2>🙋‍♂️ Connect with me</h2></summary>
 
 <p align="center">
   
