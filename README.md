@@ -11,17 +11,17 @@
 
 <br>
     
-- 🔭 Former Android Developer Intern @ **<a href="https://drive.google.com/file/d/1YojW8B7tmdhq0IlHWtYpXSEZ4EtvaFzO/view">Perform Digital</a>**
+- 🔭 Former `Android Developer Intern` @ **<a href="https://drive.google.com/file/d/1YojW8B7tmdhq0IlHWtYpXSEZ4EtvaFzO/view">`Perform Digital`</a>**
 
-- 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>**
+- 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">`NIT Jamshedpur`</a>**
 
-- ⚡ I’m currently learning more about Jetpack Compose, UI testing, **<a href="https://g.dev/shashi_kt">Android development</a>**
+- ⚡ I’m currently learning more about `Jetpack Compose`, `UI testing`, **<a href="https://g.dev/shashi_kt">`Android development`</a>**
 
 <!-- -  Practicing Data Structures on **<a href="https://leetcode.com/shkt/">LeetCode</a>** | **<a href="https://auth.geeksforgeeks.org/user/shashikt/">GeeksForGeeks</a>**  -->
 
-- 👨‍💻 All of my **projects** are available [here](https://kt-shashi.github.io/)
+- 👨‍💻 All of my **`projects`** are available [here](https://kt-shashi.github.io/)
 
-- ✍️ All of my **articles** are available [here](https://medium.com/@kt-shashi)
+- ✍️ All of my **`articles`** are available [here](https://medium.com/@kt-shashi)
 
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kt-shashi/)
 
