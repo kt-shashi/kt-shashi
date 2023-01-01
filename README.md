@@ -126,6 +126,9 @@
 | ------------- | ------------- |
 | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Shashi's github stats" /></a> | <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-shashi&layout=compact&theme=vision-friendly-dark" /></a> |
 
+<!-- Activity Stats -->
+<!-- <a href="https://github.com/kt-shashi"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kt-shashi&theme=react-dark" alt="Shashi's github stats" /> -->
+    
 <br>
     
 </details>
