@@ -10,12 +10,14 @@
   <summary><h2>🤖 About me</h2></summary>
 
 <br>
-    
+
+- 💻 `Full Stack Developer` @ **`Tata Consultancy Services`**
+
 - 🔭 Former `Android Developer Intern` @ **<a href="https://drive.google.com/file/d/1YojW8B7tmdhq0IlHWtYpXSEZ4EtvaFzO/view">`Perform Digital`</a>**
 
-- 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">`NIT Jamshedpur`</a>**
+- 🎓 MCA @ **<a href="http://www.nitjsr.ac.in/">`NIT Jamshedpur`</a>**
 
-- ⚡ I’m currently learning more about `Jetpack Compose`, `UI testing`, **<a href="https://g.dev/shashi_kt">`Android development`</a>**
+<!-- -- ⚡ I’m currently learning more about `Jetpack Compose`, `UI testing`, **<a href="https://g.dev/shashi_kt">`Android development`</a>** -->
 
 <!-- -  Practicing Data Structures on **<a href="https://leetcode.com/shkt/">LeetCode</a>** | **<a href="https://auth.geeksforgeeks.org/user/shashikt/">GeeksForGeeks</a>**  -->
 
@@ -108,7 +110,7 @@
 
 <br>
 
-| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blog-mob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
+| ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=wittyape&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=blogmob&cache_seconds=86400&theme=vision-friendly-dark) | ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=newsdozz&cache_seconds=86400&theme=vision-friendly-dark) ![Shashi's github stats](https://github-readme-stats.vercel.app/api/pin/?username=kt-shashi&repo=CloudNotes&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
 <br>
